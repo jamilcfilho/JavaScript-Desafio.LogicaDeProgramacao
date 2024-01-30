@@ -8,5 +8,5 @@
 
 ## 💻 Descrição 🎓
 Repositório destinado a mostrar: 
-- Desafios iniciais na qual estou desenvolvendo ao realizar o curso de "Lógica de Programação" oferecido pela Digital Innovation One - DIO.
-- Desafios iniciais que são oferecidos na internet que possam ajudar a desenvolver minhas habilidades com a linguagem JavaScript
+- Desafios na qual estou desenvolvendo ao realizar cursos oferecidos pela Digital Innovation One - DIO.
+- Desafios que são oferecidos na internet que possam ajudar a desenvolver minhas habilidades com a linguagem JavaScript
