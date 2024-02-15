@@ -7,6 +7,6 @@
 
 
 ## 💻 Descrição 🎓
-Repositório destinado a mostrar: 
+Repositório destinado a exibir: 
 - Desafios na qual estou desenvolvendo ao realizar cursos oferecidos pela Digital Innovation One - DIO.
 - Desafios que são oferecidos na internet que possam ajudar a desenvolver minhas habilidades com a linguagem JavaScript
