@@ -8,5 +8,10 @@
 
 ## 💻 Descrição 🎓
 Repositório destinado a exibir: 
-- Desafios na qual estou desenvolvendo ao realizar cursos oferecidos pela Digital Innovation One - DIO.
-- Desafios que são oferecidos na internet que possam ajudar a desenvolver minhas habilidades com a linguagem JavaScript
+- Desafios na qual estou desenvolvendo ao realizar cursos JavaScript.
+- Desafios que são oferecidos na internet que possam ajudar a desenvolver minhas habilidades com a linguagem JavaScript.
+
+
+### Tecnologias Utilizadas
+
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
